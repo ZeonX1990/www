@@ -4,19 +4,19 @@
     switch ($genero){
 
         case ("rock"):
-            echo"";
+            echo"Rock and Roll";
             break;
 
         case ("pop"):
-            echo"";
+            echo"pop";
             break;
 
         case ("reggueton"):
-            echo"";
+            echo"a mover la cadera";
             break;
 
         case ("electro"):
-            echo"";
+            echo"full beats";
             break;
     }
 ?>
